@@ -1,9 +1,7 @@
-const valid = () => 
+
+
+function triLettre()
 {
-    console.log("answer");
-    var str = document.getElementById('answer').value;
-}
-const tri = () =>
-{
+    var answer = document.getElementById('answer').value;
     console.log(`${answer.length}`);
 }
